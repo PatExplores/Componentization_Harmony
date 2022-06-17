@@ -2,7 +2,7 @@
 
 This Tutorial demostrates how to Build custom components.
 
-![alt text](https://github.com/PatExplores/Componentization_Harmony/tree/main/entry/screenshot/screen.jpg "Demo Screen")
+![alt text](https://github.com/PatExplores/Componentization_Harmony/tree/main/screenshot/screen.jpg "Demo Screen")
 
 Row of cells with numbers and styles added to is implmented.
 
